@@ -1,3 +1,7 @@
+## Attention
+This package is merely a mirror of the original one but registered on npm because I needed it registered and it was sunday so meh I better do it myself then:
+
+[Original Link](https://github.com/davatron5000/Lettering.js)
 
 ## Lettering.js, a jQuery plugin for radical Web Typography
 [![CDNJS](https://img.shields.io/cdnjs/v/lettering.js.svg)](https://cdnjs.com/libraries/lettering.js)
