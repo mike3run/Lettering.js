@@ -1,4 +1,3 @@
-/* global jQuery */
 /*!
  * Lettering.JS 0.7.0
  *
@@ -13,7 +12,7 @@
 
 const jQuery = require('jquery')
 
-(function ($) {
+;(function ($) {
   function injector (t, splitter, klass, after) {
     var text = t.text()
     var a = text.split(splitter)
