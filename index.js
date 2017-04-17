@@ -1,3 +1,4 @@
+/* global jQuery, define */
 /*!
  * Lettering.JS 0.7.0
  *
@@ -10,7 +11,7 @@
  * Date: Mon Sep 20 17:14:00 2010 -0600
  */
 
-(function (factory) {
+;(function (factory) {
   if (typeof define === 'function' && define.amd) {
         // AMD. Register as an anonymous module.
     define(['jquery'], factory)
